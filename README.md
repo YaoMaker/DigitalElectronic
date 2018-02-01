@@ -1,11 +1,11 @@
 # DigitalElectronic
-Week 1 
-Week 2 
-Week 3
 
 
 http://www.instructables.com/id/DIY-Spider-RobotQuad-robot-Quadruped/
-This is a 3D-Printed Arduino Spider Robot.  
+
+This is a 3D-Printed Arduino Spider Robot. 
+https://www.youtube.com/watch?v=RgV6BoCdTcc
+
 http://www.instructables.com/id/DIY-Spider-Robot-PART-II-Remote-control/
 The second part is to bulid a wireless remote control or use a smartphone to control the spider robot. 
 

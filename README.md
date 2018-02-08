@@ -24,7 +24,7 @@ Photocells are sensors that allow you to detect light.
 A devices that helps people to wake up or fall asleep with light and sound. The device will help a person fall asleep by synchronizing one's breathing with the variations of light and sound. Here is similar prodect  https://www.mydodow.com/en but only works with light.
 In my version, the light will be controled by photocell sensor.
 ## sketch 
-![](https://drive.google.com/drive/u/0/folders/1f9GhUNvIM8kLtBQ3Q2n9UOGBkaeilidz)
+![](IMG_1721.JPG)
 
 ## Rough Schematic
 ....maybe?

@@ -25,7 +25,7 @@ A devices that helps people to wake up or fall asleep with light and sound. The 
 In my version, the light will be controled by photocell sensor.
 ## sketch 
 ![](IMG_1721.JPG)
-1[](http://www.blogbeen.com/wp-content/uploads/2017/10/-chic-contemporary-ceiling-lights-17-best-ideas-about-contemporary-ceiling-lighting-on-umjhmuq-.jpg)
+![](http://www.blogbeen.com/wp-content/uploads/2017/10/-chic-contemporary-ceiling-lights-17-best-ideas-about-contemporary-ceiling-lighting-on-umjhmuq-.jpg)
 
 ## Rough Schematic
 ....maybe?

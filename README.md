@@ -29,3 +29,4 @@ In my version, the light will be controled by photocell sensor.
 ## Rough Schematic
 ....maybe?
 ![](https://cdn.instructables.com/F4Q/NX38/JBWK2N6W/F4QNX38JBWK2N6W.LARGE.jpg)
+![](https://cdn.instructables.com/F83/2XBK/J0X5ADUJ/F832XBKJ0X5ADUJ.LARGE.jpg)
